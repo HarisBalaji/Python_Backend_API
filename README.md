@@ -9,12 +9,22 @@ git clone https://github.com/HarisBalaji/Python_Backend_API
 cd Python_Backend
 ```
 
-## 2. Install Dependencies
+## 2. Create virtual environment
+* Command for virtual environment creation,
+```
+python -m venv your_venv_name
+```
+* Command to activate virtual environment,
+```
+source your_venv_name/bin/activate
+```
+
+## 3. Install Dependencies
 ```
 pip install -r requirements.txt
 ```
 
-## 3. Run the application
+## 4. Run the application
 
 ### Run the Flask Server
 ```

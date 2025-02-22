@@ -27,7 +27,7 @@ The API will be running at [http://127.0.0.1:5000](http://127.0.0.1:5000)
 ```
 curl -X POST -F "file=@users.json" http://127.0.0.1:5000/api/users  
 ```
-<!-- This will make post request by sending the users.json file -->
+This will make post request by sending the users.json file and save the details to the database.
 
 ### For GET method,
 * To list all users, add the "/api/users" endpoint to the link [http://127.0.0.1:5000](http://127.0.0.1:5000) at the end. URL look like [http://127.0.0.1:5000/api/users](http://127.0.0.1:5000/api/users)

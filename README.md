@@ -63,4 +63,18 @@ Type the url [http://127.0.0.1:5000/api/users/summary](http://127.0.0.1:5000/api
 
 
 
+#### How long did it take you?
+Around 6 hours.
+
+#### What was most challenging?
+Handling pagination.
+
+#### Any unexpected challenges?
+Saving the details from JSON file to the database.
+
+#### Is the difficulty appropriate?
+It was challenging but manageable.
+
+#### Why the chosen tools?
+Virtual environment(venv) for better dependency management.
 

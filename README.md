@@ -59,19 +59,19 @@ Here 500 indicates the id of the user which we want to delete
 
 
 ### For getting the user summary,
-Type the url [http://127.0.0.1:5000/api/users/summary](http://127.0.0.1:5000/api/users/summary) into the browser to see the results./
+Type the url [http://127.0.0.1:5000/api/users/summary](http://127.0.0.1:5000/api/users/summary) into the browser to see the results.
 
 #### How long did it take you?
-Around 6 hours./
+Around 6 hours.
 
 #### What was most challenging?
-Handling pagination./
+Handling pagination.
 
 #### Any unexpected challenges?
-Saving the details from JSON file to the database./
+Saving the details from JSON file to the database.
 
 #### Is the difficulty appropriate?
-It was challenging but manageable./
+It was challenging but manageable.
 
 #### Why the chosen tools?
 Virtual environment(venv) for better dependency management.

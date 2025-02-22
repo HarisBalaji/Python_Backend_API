@@ -25,8 +25,9 @@ The API will be running at [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ### For POST method, open another terminal and run the following command,
 ```
-curl -X POST -F "file=@users.json" http://127.0.0.1:5000/api/users  <!-- This will make post request by sending the users.json file -->
+curl -X POST -F "file=@users.json" http://127.0.0.1:5000/api/users  
 ```
+<!-- This will make post request by sending the users.json file -->
 
 ### For GET method,
 * To list all users, add the "/api/users" endpoint to the link [http://127.0.0.1:5000](http://127.0.0.1:5000) at the end. URL look like [http://127.0.0.1:5000/api/users](http://127.0.0.1:5000/api/users)

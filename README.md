@@ -57,11 +57,9 @@ curl -X DELETE http://127.0.0.1:5000/api/users/500
 ```
 Here 500 indicates the id of the user which we want to delete
 
-                        ---------------------
-
 ### For getting the user summary,
 Type the url [http://127.0.0.1:5000/api/users/summary](http://127.0.0.1:5000/api/users/summary) into the browser to see the results.
-
+<br>
 #### How long did it take you?
 Around 6 hours.
 

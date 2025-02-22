@@ -21,7 +21,7 @@ pip install -r requirements.txt
 export FLASK_APP=app.py
 flask run
 ```
-The API will be running at [http://127.0.0.1:5000]
+The API will be running at [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ### For POST method, open another terminal and run the following command,
 ```

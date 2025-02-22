@@ -29,8 +29,8 @@ curl -X POST -F "file=@users.json" http://127.0.0.1:5000/api/users  <!-- This wi
 ```
 
 ### For GET method,
-* To list all users, add the "/api/users" endpoint to the link [http://127.0.0.1:5000] at the end. URL look like [http://127.0.0.1:5000/api/users]
-* To search for a specific user, append the user_id to the url. URL look like [http://127.0.0.1:5000/api/users/1]
+* To list all users, add the "/api/users" endpoint to the link [http://127.0.0.1:5000](http://127.0.0.1:5000) at the end. URL look like [http://127.0.0.1:5000/api/users](http://127.0.0.1:5000/api/users)
+* To search for a specific user, append the user_id to the url. URL look like [http://127.0.0.1:5000/api/users/1](http://127.0.0.1:5000/api/users/1)
 
 ### For updating the user (PUT method), run this command
 ```
@@ -50,7 +50,7 @@ curl -X DELETE http://127.0.0.1:5000/api/users/500  <!-- Here 500 indicates the 
 ```
 
 ### For getting the user summary,
-Type the url [http://127.0.0.1:5000/api/users/summary] into the browser to see the results.
+Type the url [http://127.0.0.1:5000/api/users/summary](http://127.0.0.1:5000/api/users/summary) into the browser to see the results.
 
 
 
